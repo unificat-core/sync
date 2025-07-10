@@ -66,6 +66,9 @@ To invite rhythm back into the interface.
 The full code of Structure remains undisclosed,  
 but this is a glimpse — an early form of alignment through relation.
 
+![PRS Diagram – v0.7](https://raw.githubusercontent.com/unificat-core/sync/main/docs/diagram-prs.png "PRS Diagram – v0.7")
+
+
 ---
 
 ## 🌀 Author
